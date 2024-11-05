@@ -1,1 +1,1 @@
-# choco
+Welcome to the Chocolate House application—a delightful project that brings the world of chocolate to life! Imagine a cozy chocolate shop that not only sells seasonal treats but also listens to its customers and keeps track of its special recipes. This application is designed to help manage the various aspects of a fictional chocolate house, ensuring that both flavors and customer preferences are always at the forefront.
